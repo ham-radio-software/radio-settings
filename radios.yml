@@ -1,0 +1,10 @@
+---
+radios:
+  - name: ID-1
+    baud: 19200
+  - name: ID-91AD
+    baud: 38400
+  - name: ID-92AD
+    baud: 38400
+  - name: Default
+    baud: 9600

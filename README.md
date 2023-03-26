@@ -6,7 +6,7 @@ This is a YAML file that is planned to bge used to assist
 in adding Radios to D-Rats, primarily for setting the serial
 baud rate.
 
-This file is maintained in [YAML](https://yaml.org/spec/) format
+This file is maintained in [YAML](https://yaml.org/spec/) format.
 
 Each entry has the following entries:
 
